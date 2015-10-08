@@ -17,7 +17,6 @@ Simply open any of the ipynb files on the [repository](https://github.com/cglwn/
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cglwn/mobile-robotics-jupyter)
 Binder lets you modify and run the code in these notebooks in your browser.
 Just click the Binder badge above or head over to this [link](http://mybinder.org/repo/cglwn/mobile-robotics-jupyter).
-2
 
 ## Viewing Locally
 To run this code on your machine you will need MATLAB and Jupyter installed.
