@@ -7,9 +7,6 @@ The class required MATLAB, but I prefer Python so I try to do a bit of both to u
 This repository may be used either for viewing online or tinkering with on your own machine.
 
 ## Viewing Online
-To view the notebooks, just open them in GitHub which nicely formats them for you
-
-## Viewing Online
 
 ###GitHub
 GitHub has an Jupyter notebook renderer.
@@ -22,7 +19,7 @@ Binder lets you modify and run the code in these notebooks in your browser.
 Just click the Binder badge above or head over to this [link](http://mybinder.org/repo/cglwn/mobile-robotics-jupyter).
 2
 
-## Running
+## Viewing Locally
 To run this code on your machine you will need MATLAB and Jupyter installed.
 
 ### Installation
@@ -44,5 +41,5 @@ Once you have both installed, check out this repository using
 git clone https://github.com/cglwn/mobile-robotics.git
 ```
 
-### Running
+### Running Locally
 To view the notebooks locally and interact with them, navigate to the repository folder and run `ipython notebook` which will open up the web application.
